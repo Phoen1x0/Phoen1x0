@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm new to coding.
+I'm currently working on my first Python project.
+I’m currently learning coding in Python and familiarizing myself with code-related spaces and terminology.
+:)
 
 <!--
 **Phoen1x0/Phoen1x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
