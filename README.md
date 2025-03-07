@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm new to coding.
 I'm currently working on my first Python project.
-I’m currently learning coding in Python and familiarizing myself with code-related spaces and terminology.
+I’m currently learning coding in Python and familiarizing myself with coding-related spaces and terminology.
 :)
 
 <!--
